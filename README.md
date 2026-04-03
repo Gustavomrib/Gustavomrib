@@ -30,7 +30,7 @@
       <td>🤖</td><td>Entusiasta de <strong>Inteligência Artificial</strong> e automação</td>
     </tr>
     <tr>
-      <td>📍</td><td>Localizado no <strong>Brasil 🇧🇷</strong></td>
+      <td>📍</td><td>Localizado em <strong>Volta Redonda, Rio de Janeiro - Brasil 🇧🇷</strong></td>
     </tr>
     <tr>
       <td>🌱</td><td>Atualmente estudando <strong>TypeScript, Node.js e Cloud</strong></td>
@@ -58,16 +58,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavomrib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&border_radius=10" height="170"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavomrib&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomrib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff&border_radius=10" height="150"/>
 </p>
 
 <br/>
