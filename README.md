@@ -74,16 +74,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gustavomrib/Gustavomrib/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<br/>
-
----
-
 ## 📫 Contato
 
 <p align="center">
