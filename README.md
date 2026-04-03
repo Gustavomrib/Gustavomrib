@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavomrib&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4&border_radius=10" height="170"/>
