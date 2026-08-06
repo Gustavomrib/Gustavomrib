@@ -57,8 +57,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavomrib&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E0D&title_color=2D8C6E&icon_color=D4A857&text_color=ffffff" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavomrib&layout=compact&theme=dark&hide_border=true&bg_color=0A0E0D&title_color=2D8C6E&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Repositórios_Públicos-14-2D8C6E?style=for-the-badge" alt="Repositórios Públicos"/>
+  <img src="https://img.shields.io/badge/Seguidores-11-D4A857?style=for-the-badge" alt="Seguidores"/>
+  <img src="https://img.shields.io/badge/Seguindo-13-2D8C6E?style=for-the-badge" alt="Seguindo"/>
+</p>
+
+<p align="center">
+  <strong>Linguagens mais usadas nos repositórios</strong><br/>
+  <img src="https://skillicons.dev/icons?i=ts,cs,java,js,py&perline=5&theme=dark" alt="Top Languages"/><br/>
+  TypeScript (4) · C# (4) · Java (1) · JavaScript (1) · Python (1)
+</p>
+
+<p align="center">
+  <sub>📅 Snapshot manual — atualizado em agosto/2026. Atualize esses números de vez em quando direto no seu perfil do GitHub.</sub>
 </p>
 
 <p align="center">
