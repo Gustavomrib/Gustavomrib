@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavomrib&theme=dark&hide_border=true&background=0A0E0D&ring=2D8C6E&fire=D4A857&currStreakLabel=2D8C6E" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Gustavomrib&theme=dark&hide_border=true&background=0A0E0D&ring=2D8C6E&fire=D4A857&currStreakLabel=2D8C6E" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
