@@ -75,10 +75,16 @@ Aplicação de estudo com **Next.js, TypeScript e Firebase**, com autenticação
 ---
 
 <details>
-  <summary><strong>📊 Atividade no GitHub</strong></summary>
+  <summary><strong>📊 Contribuições no GitHub</strong></summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavomrib&amp;theme=react-dark&amp;bg_color=0A0E0D&amp;color=D4A857&amp;line=2D8C6E&amp;point=ffffff&amp;hide_border=true" width="100%" alt="Gráfico de atividade pública de Gustavomrib no GitHub" />
+    <a href="https://github.com/Gustavomrib?tab=overview">
+      <img
+        src="https://ghchart.rshah.org/2D8C6E/Gustavomrib"
+        width="100%"
+        alt="Calendário de contribuições de Gustavomrib"
+      />
+    </a>
   </p>
 </details>
 
